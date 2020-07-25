@@ -113,7 +113,7 @@
 
     }
     .login-form {
-        width:290px;
+        width:280px;
         margin-left:180px;
     }
     .login-kc-title {
